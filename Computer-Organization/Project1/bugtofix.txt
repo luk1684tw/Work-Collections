@@ -1,0 +1,3 @@
+lw negative
+sw negative
+beq negative

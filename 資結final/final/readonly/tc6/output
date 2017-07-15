@@ -1,0 +1,19 @@
+[ Net ]
+493720
+
+[ Hash Table ]
+   0: 00009 -> 00008 -> 00007 -> 00004 -> 00003 -> 00002 -> 00001 -> End
+
+[ Hongshulin - Electric Heap ]
+       00007           7
+       00008           8
+       00009           9
+
+[ Jingmei - Rented Heap ]
+       00001           1
+       00004           1
+
+[ Jingmei - Electric Heap ]
+       00002           2
+       00003           3
+
